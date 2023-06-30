@@ -1,0 +1,18 @@
+Category,Sub-Category,CategoryID
+Furniture,Bookcases,C0001
+Furniture,Chairs,C0002
+Furniture,Tables,C0003
+Furniture,Furnishings,C0004
+Office Supplies,Supplies,C0005
+Office Supplies,Fasteners,C0006
+Office Supplies,Envelopes,C0007
+Office Supplies,Paper,C0008
+Office Supplies,Appliances,C0009
+Office Supplies,Binders,C0010
+Office Supplies,Art,C0011
+Office Supplies,Storage,C0012
+Office Supplies,Labels,C0013
+Technology,Phones,C0014
+Technology,Accessories,C0015
+Technology,Machines,C0016
+Technology,Copiers,C0017
